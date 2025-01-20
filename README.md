@@ -1,6 +1,5 @@
 # 💫 Hi, I'm Makarim! Just call me Rims ,Thank You 👋
-I love creating new things ⚡
-Turning imagination into reality 🚀
+I love creating new things ⚡<br>Turning imagination into reality 🚀
 
 
 # 💻 Tech Stack:
